@@ -1,0 +1,29 @@
+{
+  "name": "grunt-service-template",
+  "description": "The default Amex Pub client module grunt template",
+  "version": "0.0.3",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AmexPub/grunt-client-module-template"
+  },
+  "engines": {
+    "node": ">=0.10.x"
+  },
+  "scripts": {
+    "test": "mocha -R spec --recursive"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-jshint": "0.4.3",
+    "grunt-simple-mocha": "0.4.0",
+    "mocha": "1.9.0",
+    "should": "1.2.2",
+    "grunt-contrib-watch": "~0.5.3"
+  },
+  "keywords": [
+    "Amex Pub",
+    "amexpub",
+    "grunt",
+    "template"
+  ]
+}
