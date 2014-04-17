@@ -27,6 +27,7 @@ exports.template = function(grunt, init, done) {
       'grunt': '0.4.1',
       'grunt-contrib-jshint': '0.4.3',
       'grunt-contrib-copy': '0.4.1',
+      'grunt-contrib-watch': '0.4.1',
       'grunt-simple-mocha': '0.4.0',
       'grunt-jsbeautifier': '0.1.7',
       'mocha': '1.9.0'
